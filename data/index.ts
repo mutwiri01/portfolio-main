@@ -57,16 +57,6 @@ export const gridItems = [
     img: "/b5.svg",
     spareImg: "/grid.svg",
   },
-  {
-    id: 6,
-    title: "Do you want to start a project together?",
-    description: "",
-    className: "lg:col-span-2 md:col-span-3 md:row-span-1",
-    imgClassName: "",
-    titleClassName: "justify-center md:max-w-full max-w-60 text-center",
-    img: "",
-    spareImg: "",
-  },
 ];
 
 export const projects = [
@@ -108,32 +98,27 @@ export const testimonials = [
   {
     quote:
       "Collaborating was an absolute pleasure. professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kithinji enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "KM",
   },
   {
     quote:
       "Collaborating was an absolute pleasure. professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kithinji enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "KM",
   },
   {
     quote:
       "Collaborating was an absolute pleasure. professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kithinji enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "KM",
   },
   {
     quote:
       "Collaborating was an absolute pleasure. professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kithinji enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "KM",
   },
   {
     quote:
       "Collaborating was an absolute pleasure. professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kithinji enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "KM",
   },
 ];
 
